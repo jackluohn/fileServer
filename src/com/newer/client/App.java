@@ -1,11 +1,12 @@
-package com.newer.client;
+﻿package com.newer.client;
 
 /**
  * 客户端
  * 
- * @author 
+ * @author  lfw
  *
  */
 public class App {
+
 
 }
